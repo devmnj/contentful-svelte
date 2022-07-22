@@ -9,8 +9,6 @@
 <script>
     import PostGrid from './../components/postGrid.svelte';
     export let posts;
-    client.getEntries().then(entries => posts = entries)
-
 </script>
 <div>
     <!-- {JSON.stringify(posts.items[0].fields)} -->
