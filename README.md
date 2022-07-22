@@ -2,20 +2,17 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
 </p>
-<h3 align="center">Svelte - Pokeman</h3>
+<h3 align="center">Svelte-Contentful-Blog</h3>
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/svelt-pokeman-green.svg)](http://hackathon.url.com)
+[![Hackathon](https://img.shields.io/badge/svelt-contentful-cms.svg)](http://hackathon.url.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
+ 
 
----
-
-<p align="center">Svelte Pokemon is a simple API based app which can show Pokemon list and search for a Pokemon.
-
-> This example ideal for beginners and will help to understand the basic concepts in `Svelte`.
+<p align="center">This is Svelte Contentful Headless CMS integration example app. 
     <br> 
 </p>
 
@@ -43,9 +40,10 @@ npm run dev -- --open
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
 - [Svelte](https://svelte.dev/) - Web Framework
+- [Contentful](https://www.contentful.com/) - Contentful Headless CMS
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - JavaScript
-- TailwindCSS
+- [TailwindCSS](http://tailwindcss.com) - CSS Framework
 
 ## 🔷 Additional Guide
 
